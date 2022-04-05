@@ -1,4 +1,4 @@
-package com.example.ecomrest.model;
+package com.example.ecomrest.domains.employee.model;
 
 import lombok.Data;
 
